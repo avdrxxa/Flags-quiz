@@ -13,9 +13,9 @@ body.dark-mode{
         background-color: aliceblue;
         color: rgb(21, 21, 82);
     }
-    p.slut{
-        text-shadow: aliceblue;
-    }
+}
+div img{
+    height: 450px;
 }
 
 body{
@@ -45,7 +45,7 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    width: 800px;
+    width: 690px;
     height: 1050px;
     padding: 100px 200px;
     border-radius: 30px;
@@ -110,3 +110,76 @@ h2{
     right: 30px;
 }
 
+@media screen and (min-width:100px) and (max-width:1100px) {
+    body{
+        background-image: url('pics/lightmodebody\ copy.jpeg');
+        background-position: center;
+        background-size: cover;
+    }
+    body.dark-mode{
+        background-image: url('pics/darkmodebody\ copy.jpeg');
+        background-position: center;
+        background-size: cover;
+    }
+    .main{
+        justify-content: space-evenly;
+        width: 400px;
+        height: 700px;
+        padding: 50px 50px;
+        margin: 100px 0;
+        h1, h2, h3{
+            font-size: 40px;
+        }
+        button {
+            font-size:30px ;
+            padding: 25px 50px;
+        }
+        p.footer{
+            position: fixed;
+            bottom: 10px;
+        }
+    }
+    .quizContainer img{
+        height: 250px;
+        width: 400px;
+    }
+    .quizContainer h210{
+        font-size: 25px;
+        padding: 0 15px;
+    }
+    .quizContainer .options label{
+        font-size: 21px;
+        margin: 10px 20px;
+    }
+    .quizContainer button.submit{
+        font-size:20px ;
+        padding: 20px 50px;
+        margin-top: 20px;
+    }
+    div.quizContainer{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+    }
+    div.quizContainer p{
+        font-size:13px ;
+    }
+    div.quizContainer h1{
+        margin: 0 0 5px 0;
+        font-size: 30px;
+    }
+    div.quizContainer h2{
+        margin: px 0 5px 0;
+        font-size: 25px;
+    }
+    div.quizContainer .retry{
+        margin:15px  0;
+        font-size: 25px;
+        padding: 10px 45px;
+        justify-self: center;
+        align-self: center;
+    }
+}

@@ -1,6 +1,5 @@
 let switchBtn = document.querySelector('.switchBtn')
 let start= document.querySelector('.start')
-let instructions= document.querySelector('.instructions')
 let div= document.querySelector('div.quizContainer')
 
 switchBtn.addEventListener('click', ()=>{
@@ -25,22 +24,6 @@ function tillbaka(){
     main.innerHTML=originalMain
 }
 
-instructions.addEventListener('click', ()=>{
-    newSlide()
-    let backBtn= document.createElement('button')
-    backBtn.innerText= 'Back'
-    backBtn.classList.add('backBtn')
-    main.prepend(backBtn)
-    backBtn.addEventListener('click', tillbaka)
-    backBtn.style.marginTop='350px'
-    let h3= document.createElement('h3')
-    h3.innerText= 'Just choose the right answear and have fun.'
-    main.prepend(h3)
-    h3.style.fontSize='50px'
-    main.style.display='flex'
-    main.style.justifyContent='space-between'
-    main.style.alignItems='center'
-})
 
 let frågor=[
     {
@@ -121,7 +104,6 @@ function visaFrågorna(){
     div.style.display='flex'
     let img= document.createElement('img')
     img.src= bilder[i]
-    img.style.height='450px'
     div.append(img)
     let h2= document.createElement('h2')
     h2.innerText= frågor[i].fråga
