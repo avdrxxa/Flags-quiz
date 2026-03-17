@@ -62,8 +62,8 @@ Simple and clean user interface
 <img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/69e501e7-6b1c-429d-9aa6-503e0894ce94" />
 <img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/47f13a9d-42a0-4e3f-a0e8-df3baccdeedd" />
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8846aa7b-1942-4124-8164-a7c3f6057ea7" width="45%" />
-  <img src="https://github.com/user-attachments/assets/0e234f2d-b783-40f9-a645-eca7f705a375" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8846aa7b-1942-4124-8164-a7c3f6057ea7" width="50%" />
+  <img src="https://github.com/user-attachments/assets/0e234f2d-b783-40f9-a645-eca7f705a375" width="50%" />
 </p>
 
 
