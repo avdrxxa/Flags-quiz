@@ -8,10 +8,15 @@ The Flags Quiz is a simple interactive web application built using JavaScript. T
 🎯 What It Is
 
 This project is a beginner-friendly quiz game that:
+
 Displays random country flags and flags questions
+
 Challenges users to identify the correct country
+
 Provides feedback on answers at the end
+
 Keeps track of the user’s score
+
 It runs directly in the browser and does not require any installation.
 
 
