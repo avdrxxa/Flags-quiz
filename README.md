@@ -44,7 +44,7 @@ Simple and clean user interface
 📷 Demo
 
 <img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/69e501e7-6b1c-429d-9aa6-503e0894ce94" />
-![Frågesida darkmode desktop](Screenshot 2026-03-17 at 19.24.17.png)
+<img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/47f13a9d-42a0-4e3f-a0e8-df3baccdeedd" />
 ![Slutsida lightmode telefon](Screenshot 2026-03-17 at 19.25.01.png)
 
 
