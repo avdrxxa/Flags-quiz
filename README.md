@@ -4,6 +4,9 @@
 
 The Flags Quiz is a simple interactive web application built using JavaScript. The goal of the project is to test and improve users’ knowledge of world flags in a fun and engaging way. Players are shown questions about flags and must guess the correct answer from a set of options.
 
+## Play it here:  
+👉 https://avdrxxa.github.io/Flags-quiz/
+
 
 ## 🎯 What It Is
 
