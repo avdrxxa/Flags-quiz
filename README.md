@@ -1,11 +1,11 @@
-#🌍 Flags Quiz – JavaScript Project
+# 🌍 Flags Quiz – JavaScript Project
 
-##📌 Overview
+## 📌 Overview
 
 The Flags Quiz is a simple interactive web application built using JavaScript. The goal of the project is to test and improve users’ knowledge of world flags in a fun and engaging way. Players are shown questions about flags and must guess the correct answer from a set of options.
 
 
-##🎯 What It Is
+## 🎯 What It Is
 
 This project is a beginner-friendly quiz game that:
 
@@ -20,7 +20,7 @@ Keeps track of the user’s score
 It runs directly in the browser and does not require any installation.
 
 
-##🧠 What I Learned
+## 🧠 What I Learned
 
 While building this project, I learned:
 
@@ -37,7 +37,7 @@ Basic game logic and state management
 Improving problem-solving skills through debugging
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML – for structuring the web page
 
@@ -46,7 +46,7 @@ CSS – for styling and layout
 JavaScript – for functionality and interactivity
 
 
-##🚀 Features
+## 🚀 Features
 
 Multiple choice and single choice answers
 
@@ -57,14 +57,14 @@ Responsive design (works on different screen sizes)
 Simple and clean user interface
 
 
-##📷 Demo
+## 📷 Demo
 
 <img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/69e501e7-6b1c-429d-9aa6-503e0894ce94" />
 <img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/47f13a9d-42a0-4e3f-a0e8-df3baccdeedd" />
 <img width="576" height="1059" alt="Image" src="https://github.com/user-attachments/assets/8846aa7b-1942-4124-8164-a7c3f6057ea7" />
 
 
-##📦 How to Run
+## 📦 How to Run
 
 Clone the repository:
 
@@ -75,7 +75,7 @@ Open the project folder
 Open index.html in your browser
 
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add difficulty levels
 
@@ -85,10 +85,10 @@ More countries and flags
 
 Sound effects and animations
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Inspiration from online quiz games
 
-##📄 License
+## 📄 License
 
 This project is open source and available under the MIT License.
