@@ -45,7 +45,7 @@ Simple and clean user interface
 
 <img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/69e501e7-6b1c-429d-9aa6-503e0894ce94" />
 <img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/47f13a9d-42a0-4e3f-a0e8-df3baccdeedd" />
-![Slutsida lightmode telefon](Screenshot 2026-03-17 at 19.25.01.png)
+<img width="576" height="1059" alt="Image" src="https://github.com/user-attachments/assets/8846aa7b-1942-4124-8164-a7c3f6057ea7" />
 
 
 📦 How to Run
