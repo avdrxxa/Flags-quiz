@@ -23,26 +23,37 @@ It runs directly in the browser and does not require any installation.
 🧠 What I Learned
 
 While building this project, I learned:
+
 How to use JavaScript to manipulate the DOM
+
 Handling user input and events (clicks, selections)
+
 Working with arrays and objects to store quiz data
+
 Using functions to organize and reuse code using OOP programming
+
 Basic game logic and state management
+
 Improving problem-solving skills through debugging
 
 
 🛠️ Technologies Used
 
 HTML – for structuring the web page
+
 CSS – for styling and layout
+
 JavaScript – for functionality and interactivity
 
 
 🚀 Features
 
 Multiple choice and single choice answers
+
 Score tracking
+
 Responsive design (works on different screen sizes)
+
 Simple and clean user interface
 
 
@@ -56,16 +67,22 @@ Simple and clean user interface
 📦 How to Run
 
 Clone the repository:
+
 git clone https://github.com/avdrxxa/Flags-quiz.git
+
 Open the project folder
+
 Open index.html in your browser
 
 
 🔮 Future Improvements
 
 Add difficulty levels
+
 Timer for each question
+
 More countries and flags
+
 Sound effects and animations
 
 🙌 Acknowledgements
