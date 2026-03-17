@@ -43,7 +43,7 @@ Simple and clean user interface
 
 📷 Demo
 
-![Startsida lightmode desktop](Screenshot 2026-03-17 at 19.23.32.png)
+<img width="2048" height="1160" alt="Image" src="https://github.com/user-attachments/assets/69e501e7-6b1c-429d-9aa6-503e0894ce94" />
 ![Frågesida darkmode desktop](Screenshot 2026-03-17 at 19.24.17.png)
 ![Slutsida lightmode telefon](Screenshot 2026-03-17 at 19.25.01.png)
 
